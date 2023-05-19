@@ -85,7 +85,7 @@ Les propriétés des objets geojson :
 
 5. Ajouter **la couche des stations** à la carte et lier sa visibilité à la checkbox **_Stations_**.
 
-### Popup avec la description de la station
+### Popup avec la description de la station (Bonus)
 
 1. Ajouter le code HTML de la popup au fichier _index.html_
 
